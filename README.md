@@ -1,4 +1,4 @@
-# Pig-Game using Javascript Html Css
+# Pig Dice Game using Javascript Html Css
 /*
 GAME RULES:
 
